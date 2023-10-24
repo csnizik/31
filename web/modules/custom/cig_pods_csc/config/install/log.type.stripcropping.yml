@@ -4,7 +4,7 @@ dependencies:
   enforced:
     module:
       - cig_pods_csc
-id: stripcropping
+id: csc_stripcropping
 label: 'Stripcropping'
 description: 'Stripcropping'
 name_pattern: 'Stripcropping log [log:id]'

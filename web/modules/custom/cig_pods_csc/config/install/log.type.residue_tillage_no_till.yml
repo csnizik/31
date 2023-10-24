@@ -4,7 +4,7 @@ dependencies:
   enforced:
     module:
       - cig_pods_csc
-id: residue_tillage_no_till
+id: csc_residue_tillage_no_till
 label: 'Residue Tillage Management No Till'
 description: 'Residue Tillage Management No Till'
 name_pattern: 'Residue Tillage Management No Till log [log:id]'

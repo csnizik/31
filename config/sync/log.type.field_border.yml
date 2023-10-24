@@ -5,7 +5,7 @@ dependencies:
   enforced:
     module:
       - cig_pods_csc
-id: field_border
+id: csc_field_border
 label: 'Field Border'
 description: 'Field Border'
 name_pattern: 'Field Border log [log:id]'

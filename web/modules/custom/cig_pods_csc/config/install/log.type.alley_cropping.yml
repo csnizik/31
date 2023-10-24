@@ -4,7 +4,7 @@ dependencies:
   enforced:
     module:
       - cig_pods_csc
-id: alley_cropping
+id: csc_alley_cropping
 label: 'Alley Cropping'
 description: 'Alley Cropping'
 name_pattern: 'Alley Cropping log [log:id]'

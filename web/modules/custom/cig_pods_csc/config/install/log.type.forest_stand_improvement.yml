@@ -4,7 +4,7 @@ dependencies:
   enforced:
     module:
       - cig_pods_csc
-id: forest_stand_improvement
+id: csc_forest_stand_improvement
 label: 'Forest Stand Improvement'
 description: 'Forest Stand Improvement'
 name_pattern: 'Forest Stand Improvement [log:id]'

@@ -5,7 +5,7 @@ dependencies:
   enforced:
     module:
       - cig_pods_csc
-id: pasture_hay_planting
+id: csc_pasture_hay_planting
 label: 'Pasture and Hay Planting'
 description: 'Pasture and Hay Planting'
 name_pattern: 'Pasture and Hay Planting log [log:id]'

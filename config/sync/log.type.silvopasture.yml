@@ -5,7 +5,7 @@ dependencies:
   enforced:
     module:
       - cig_pods_csc
-id: silvopasture
+id: csc_silvopasture
 label: 'Silvopasture'
 description: 'Silvopasture'
 name_pattern: 'Silvopasture log [log:id]'

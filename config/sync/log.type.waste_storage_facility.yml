@@ -5,7 +5,7 @@ dependencies:
   enforced:
     module:
       - cig_pods_csc
-id: waste_storage_facility
+id: csc_waste_storage_facility
 label: 'Waste Storage Facility'
 description: 'Waste Storage Facility'
 name_pattern: 'Waste Storage Facility log [log:id]'

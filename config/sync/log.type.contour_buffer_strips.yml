@@ -5,7 +5,7 @@ dependencies:
   enforced:
     module:
       - cig_pods_csc
-id: contour_buffer_strips
+id: csc_contour_buffer_strips
 label: 'Contour Buffer Strips'
 description: 'Contour Buffer Strips'
 name_pattern: 'Contour Buffer Strips log [log:id]'

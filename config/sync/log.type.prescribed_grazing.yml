@@ -5,7 +5,7 @@ dependencies:
   enforced:
     module:
       - cig_pods_csc
-id: prescribed_grazing
+id: csc_prescribed_grazing
 label: 'Prescribed Grazing'
 description: 'Prescribed Grazing'
 name_pattern: 'Prescribed Grazing log [log:id]'

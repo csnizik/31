@@ -5,7 +5,7 @@ dependencies:
   enforced:
     module:
       - cig_pods_csc
-id: cover_crop
+id: csc_cover_crop
 label: 'Cover Crop'
 description: 'Cover Crop'
 name_pattern: 'Cover Crop log [log:id]'

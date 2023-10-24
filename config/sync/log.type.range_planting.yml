@@ -5,7 +5,7 @@ dependencies:
   enforced:
     module:
       - cig_pods_csc
-id: range_planting
+id: csc_range_planting
 label: 'Range_Planting'
 description: 'Range Planting'
 name_pattern: 'Range Planting log [log:id]'

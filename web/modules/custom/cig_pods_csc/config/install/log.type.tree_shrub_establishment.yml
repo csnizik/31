@@ -4,7 +4,7 @@ dependencies:
   enforced:
     module:
       - cig_pods_csc
-id: tree_shrub_establishment
+id: csc_tree_shrub_establishment
 label: 'Tree Shrub Establishment'
 description: 'Tree Shrub Establishment'
 name_pattern: 'Tree Shrub Establishment log [log:id]'

@@ -4,7 +4,7 @@ dependencies:
   enforced:
     module:
       - cig_pods_csc
-id: waste_treatment
+id: csc_waste_treatment
 label: 'Waste Treatment'
 description: 'Waste Treatment'
 name_pattern: 'Waste Treatment [log:id]'

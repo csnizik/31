@@ -4,7 +4,7 @@ dependencies:
   enforced:
     module:
       - cig_pods_csc
-id: vegetative_barrier
+id: csc_vegetative_barrier
 label: 'Vegetative Barrier'
 description: 'Vegetative Barrier'
 name_pattern: 'Vegetative Barrier log [log:id]'

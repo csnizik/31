@@ -4,7 +4,7 @@ dependencies:
   enforced:
     module:
       - cig_pods_csc
-id: riparian_forest_buffer
+id: csc_riparian_forest_buffer
 label: 'Riparian Forest Buffer'
 description: 'Riparian Forest Buffer'
 name_pattern: 'Riparian Forest Buffer log [log:id]'

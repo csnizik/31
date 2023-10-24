@@ -5,7 +5,7 @@ dependencies:
   enforced:
     module:
       - cig_pods_csc
-id: nutrient_management
+id: csc_nutrient_management
 label: 'Nutrient Management'
 description: 'Nutrient Management'
 name_pattern: 'Nutrient Management log [log:id]'

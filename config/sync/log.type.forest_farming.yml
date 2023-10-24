@@ -5,7 +5,7 @@ dependencies:
   enforced:
     module:
       - cig_pods_csc
-id: forest_farming
+id: csc_forest_farming
 label: 'Forest Farming'
 description: 'Forest Farming'
 name_pattern: 'Forest Farming log [log:id]'

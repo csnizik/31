@@ -5,7 +5,7 @@ dependencies:
   enforced:
     module:
       - cig_pods_csc
-id: grassed_waterway
+id: csc_grassed_waterway
 label: 'Grassed Waterway'
 description: 'Grassed Waterway'
 name_pattern: 'Grassed Waterway [log:id]'

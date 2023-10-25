@@ -41,7 +41,7 @@ class WasteStorageFacility extends FarmLogType {
         'required' => TRUE,
         'multiple' => FALSE,
       ],
-      'csc_p313_prior_waste_storage_system' => [
+      'csc_p313_pri_waste_storage_sys' => [
         'type' => 'entity_reference',
         'label' => 'Supplemental Data Waste storage system prior to installing your waste storage facility',
         'description' => 'Supplemental Data Waste storage system prior to installing your waste storage facility',

@@ -9,7 +9,7 @@ use Drupal\farm_field\FarmFieldFactory;
  * Provides the Combustion System Improvement log type.
  *
  * @LogType(
- * id = "csc_combustion_system_improvement",
+ * id = "csc_combustion_sys_improvement",
  * label = @Translation("Combustion System Improvement Log"),
  * )
  */
@@ -60,7 +60,7 @@ class CombustionSystemImprovement extends FarmLogType {
         'required' => FALSE,
         'multiple' => FALSE,
       ],
-      'csc_p372_prior_fuel_amount_unit_other' => [
+      'csc_p372_pri_fuel_amnt_unit_otr' => [
         'type' => 'string',
         'label' => 'Combustion System Improvement Other fuel amount unit before installation',
         'description' => 'Combustion System Improvement Other fuel amount unit before installation',
@@ -104,7 +104,7 @@ class CombustionSystemImprovement extends FarmLogType {
         'required' => FALSE,
         'multiple' => FALSE,
       ],
-      'csc_p372_fuel_amount_unit_after_other' => [
+      'csc_p372_fuel_amnt_unit_aft_otr' => [
         'type' => 'string',
         'label' => 'Combustion System Improvement Other fuel amount unit after installation',
         'description' => 'Combustion System Improvement Other fuel amount unit after installation',

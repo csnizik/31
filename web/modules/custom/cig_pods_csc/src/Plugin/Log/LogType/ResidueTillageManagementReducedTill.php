@@ -9,7 +9,7 @@ use Drupal\farm_field\FarmFieldFactory;
  * Provides the Residue Tillage Management Reduced Till log type.
  *
  * @LogType(
- * id = "csc_residue_tillage_reduced_till",
+ * id = "csc_residue_till_reduced_till",
  * label = @Translation("Residue Tillage Management Reduced Till Log"),
  * )
  */

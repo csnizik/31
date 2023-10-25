@@ -41,7 +41,7 @@ class WasteTreatmentLagoon extends FarmLogType {
         'required' => TRUE,
         'multiple' => FALSE,
       ],
-      'csc_p359_prior_waste_storage_system' => [
+      'csc_p359_pri_waste_storage_sys' => [
         'type' => 'entity_reference',
         'label' => 'Waste Treatment Lagoon Waste storage system prior to installing waste treatment lagoon',
         'description' => 'Waste Treatment Lagoon Waste storage system prior to installing waste treatment lagoon',

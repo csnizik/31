@@ -66,7 +66,7 @@ class NutrientManagement extends FarmLogType {
         'required' => FALSE,
         'multiple' => FALSE,
       ],
-      'csc_p590_prior_application_method' => [
+      'csc_p590_pri_aplctn_method' => [
         'type' => 'list_string',
         'label' => 'Nutrient Management Nutrient application method in the previous year',
         'description' => 'Supplemental Data Nutrient application method in the previous year',
@@ -96,7 +96,7 @@ class NutrientManagement extends FarmLogType {
         'required' => FALSE,
         'multiple' => FALSE,
       ],
-      'csc_p590_prior_application_timing' => [
+      'csc_p590_pri_aplctn_timing' => [
         'type' => 'list_string',
         'label' => 'Nutrient Management Nutrient application timing in the previous year',
         'description' => 'Supplemental Data Nutrient application timing in the previous year',
@@ -128,7 +128,7 @@ class NutrientManagement extends FarmLogType {
         'required' => FALSE,
         'multiple' => FALSE,
       ],
-      'csc_p590_application_rate_change' => [
+      'csc_p590_aplctn_rate_change' => [
         'type' => 'list_string',
         'label' => 'Nutrient Management Nutrient application rate change',
         'description' => 'Supplemental Data Nutrient application rate change',

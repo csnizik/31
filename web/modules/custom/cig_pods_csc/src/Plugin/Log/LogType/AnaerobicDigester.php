@@ -23,7 +23,7 @@ class AnaerobicDigester extends FarmLogType {
     $fields = parent::buildFieldDefinitions();
 
     $field_info = [
-      'csc_p366_prior_waste_storage_system' => [
+      'csc_p366_prior_waste_storage_sys' => [
         'type' => 'entity_reference',
         'label' => 'Anaerobic Digester Waste storage system prior to installing',
         'description' => 'Anaerobic Digester Waste storage system prior to installing',
@@ -54,7 +54,7 @@ class AnaerobicDigester extends FarmLogType {
         'required' => FALSE,
         'multiple' => FALSE,
       ],
-      'csc_p366_addtl_feedback_source' => [
+      'csc_p366_addtl_fdbk_source_otr' => [
         'type' => 'list_string',
         'label' => 'Anaerobic Digester Additional feedstock source',
         'description' => 'Anaerobic Digester Additional feedstock source',

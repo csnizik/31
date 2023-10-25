@@ -4,7 +4,7 @@ dependencies:
   enforced:
     module:
       - cig_pods_csc
-id: csc_combustion_system_improvement
+id: csc_combustion_sys_improvement
 label: 'Combustion System Improvement'
 description: 'Combustion System Improvement'
 name_pattern: 'Combustion System Improvement log [log:id]'

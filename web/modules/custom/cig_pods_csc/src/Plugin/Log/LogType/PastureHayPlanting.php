@@ -66,7 +66,7 @@ class PastureHayPlanting extends FarmLogType {
         'required' => FALSE,
         'multiple' => FALSE,
       ],
-      'csc_p512_other_termination_process' => [
+      'csc_p512_otr_term_process' => [
         'type' => 'string',
         'label' => 'Pasture and Hay Planting Other termination process',
         'description' => 'Supplemental Data Other termination process',

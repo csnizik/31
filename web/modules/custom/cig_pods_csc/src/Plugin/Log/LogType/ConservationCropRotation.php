@@ -65,7 +65,7 @@ class ConservationCropRotation extends FarmLogType {
             'required' => FALSE,
             'multiple' => FALSE,
         ],
-        'csc_p328_rotation_tillage_type_other' => [
+        'csc_p328_rotation_till_type_otr' => [
             'type' => 'string',
             'label' => 'Supplemental Data Other conservation crop rotation tillage type',
             'description' => 'Supplemental Data Other conservation crop rotation tillage type',

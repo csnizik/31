@@ -23,7 +23,7 @@ class ForestFarming extends FarmLogType {
     $fields = parent::buildFieldDefinitions();
 
     $field_info = [
-      'csc_p379_land_use_previous_years' => [
+      'csc_p379_land_use_prev_years' => [
         'type' => 'list_string',
         'label' => 'Forest Farming Land use in previous years',
         'description' => 'Forest Farming Land use in previous years',

@@ -5,7 +5,7 @@ dependencies:
   enforced:
     module:
       - cig_pods_csc
-id: csc_environmental_benefits
+id: environmental_benefits
 label: 'Additional Environmental Benefits'
 description: 'Additional Environmental Benefits'
 name_pattern: 'Additional Environmental Benefits log [log:id]'
